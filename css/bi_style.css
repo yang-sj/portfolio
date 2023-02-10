@@ -1,0 +1,37 @@
+@charset="utf-8";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #c0a5a0;
+}
+
+div img {
+  margin: 0 auto;
+  display: block;
+}
+
+.fixed {
+  position: fixed;
+  right: 100px;
+  bottom: 100px;
+  opacity: 0.85;
+}
+
+.fixed:hover {
+  opacity: 1;
+}
+
+.fixed2 {
+  position: fixed;
+  right: 100px;
+  bottom: 40px;
+  opacity: 0.85;
+}
+
+.fixed2:hover {
+  opacity: 1;
+}
