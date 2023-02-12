@@ -35,3 +35,22 @@ div img {
 .fixed2:hover {
   opacity: 1;
 }
+
+.videobox {
+  width: 1280px;
+  height: 720px;
+  overflow: hidden;
+  margin: 0px auto;
+}
+
+iframe {
+  position: absolute;
+  left: 50%;
+  margin-left: -640px;
+}
+.centerbox{
+  text-align: center;
+  color: #fff;
+  padding-top: 50px;
+  line-height: 30px;
+}
