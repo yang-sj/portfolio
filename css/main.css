@@ -2630,7 +2630,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: inline-block;
   border: 1px solid #eee;
   border-radius: 20px;
-  padding: 4px 20px;
+  padding: 4px 17px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
